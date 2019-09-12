@@ -7,8 +7,15 @@ package demo;
  */
 public class Demo {
 
+    public static void quickSort(){
+
+    }
+    public static int partition(){
+        return 0;
+    }
     public static void main(String[] args) {
         System.out.println("hello world!");
     }
+
 
 }
