@@ -8,7 +8,7 @@ package demo;
 public class Demo {
 
     public static void quickSort(){
-
+        System.out.println("具体怎么写，无法一下子出来了，得先写写思路");
     }
     public static int partition(){
         return 0;
@@ -16,6 +16,5 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("hello world!");
     }
-
 
 }
