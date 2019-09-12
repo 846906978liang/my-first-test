@@ -12,6 +12,7 @@ public class Demo {
 
     public static void main(String[] args) {
         System.out.println("一个电脑用户无法模拟多人，说明版本控制还是有区分度的，一个人再怎么乱搞，自己的项目都不会出问题");
+        System.out.println("你说多难啊，弄个冲突");
         System.out.println("弄个冲突那么难吗");
         System.out.println("必须要弄个冲突出来");
     }
