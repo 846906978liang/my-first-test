@@ -9,7 +9,6 @@ import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
  * @date 2019/9/12 16:56
  */
 public class Demo {
-
     public static void main(String[] args) {
         System.out.println("人之初，性本善，practice");
         System.out.println("remote base is master");
@@ -17,5 +16,6 @@ public class Demo {
         System.out.println("你说多难啊，弄个冲突");
         System.out.println("弄个冲突那么难吗");
         System.out.println("必须要弄个冲突出来");
+        System.out.println("人之初，性本善");
     }
 }
