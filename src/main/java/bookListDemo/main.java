@@ -11,6 +11,7 @@ import bookListDemo.entity.Book;
 public class main {
 
     public static void main(String[] args) {
+
         Book book =new Book("springboot", new Author("dax",20) );
         System.out.println(book.toString());
     }
